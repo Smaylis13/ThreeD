@@ -16,7 +16,7 @@
   if (year) year.textContent = new Date().getFullYear();
 
   // IMPORTANT: replace this address before publishing.
-  const CONTACT_EMAIL = "REMPLACER-PAR-VOTRE-EMAIL@exemple.fr";
+  const CONTACT_EMAIL = "liam.sy.pro@gmail.com";
   const form = document.getElementById("request-form");
   const status = document.getElementById("form-status");
 
